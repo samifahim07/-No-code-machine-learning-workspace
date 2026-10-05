@@ -6,6 +6,11 @@ The application is designed to reduce repetitive notebook work by providing a st
 
 It supports both classification and regression problems and keeps the user in control of the important choices throughout the workflow.
 
+## Project Demonstration
+
+A complete video demonstration of this project is available on Google Drive.
+
+[Watch the Project Demo](https://drive.google.com/drive/folders/14cvLyeL-PUc4mWojmw6LXiuh-WcGWPLe?usp=drive_link)
 ## Overview
 
 Instead of repeatedly writing the same preprocessing and model-training code for every new dataset, ML Workflow Helper provides a reusable interface where users can:
